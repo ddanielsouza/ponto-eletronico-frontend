@@ -1,0 +1,14 @@
+@media only screen and (max-width: 600px) {
+    .ivu-menu-horizontal{
+        height: 100% !important;
+    }
+    .ivu-menu-item{
+        float: none !important;
+    }
+}  
+
+.content-body-default {
+    background-color: #FFF;
+    border-radius: 5px;
+    padding: 10px;
+}
